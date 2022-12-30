@@ -1,0 +1,2 @@
+#!/bin/bashh
+echo "obase=10; BINARY" | bc
